@@ -296,13 +296,13 @@ a.vimeo-small, a.vimeo-big{
     -moz-box-shadow: 0px 6px 0px #1993AF;
     box-shadow: 0px 6px 0px #1993AF;
 }
-a.vimeo-small{background:#20B9EB url("http://2.bp.blogspot.com/-gEm-tOU_uGE/VhKYfXm7vxI/AAAAAAAAAmc/KG1ZnRVMEn0/s1600/vimeo.png") no-repeat center center;}
+a.vimeo-small{background:#20B9EB url("#") no-repeat center center;}
 a.vimeo-big{background:#20B9EB;}
 a.vimeo-small:active, a.vimeo-big:active{ -webkit-box-shadow: 0px 2px 0px #1993AF;
     -moz-box-shadow: 0px 2px 0px #1993AF;
     box-shadow: 0px 2px 0px #1993AF;
 }
-a.vimeo-big:before{background: url("http://2.bp.blogspot.com/-gEm-tOU_uGE/VhKYfXm7vxI/AAAAAAAAAmc/KG1ZnRVMEn0/s1600/vimeo.png") no-repeat center center;
+a.vimeo-big:before{background: url("#") no-repeat center center;
 content:"";
 width:30px;
 height:30px;
